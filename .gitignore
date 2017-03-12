@@ -3,5 +3,5 @@
 *.map
 *.log
 *.exe
-*.vsn
 *.bak
+*.drc
